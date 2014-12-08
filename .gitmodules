@@ -1,5 +1,5 @@
-[submodule ".vim/bundle/puppet"]
-	path = .vim/bundle/puppet
+[submodule ".vim/bundle/vim-puppet"]
+	path = .vim/bundle/vim-puppet
 	url = git://github.com/rodjek/vim-puppet.git
 [submodule ".vim/bundle/nerdtree"]
 	path = .vim/bundle/nerdtree
@@ -7,8 +7,8 @@
 [submodule ".vim/bundle/pdv"]
 	path = .vim/bundle/pdv
 	url = https://github.com/tobyS/pdv.git
-[submodule ".vim/bundle/phpcomplete"]
-	path = .vim/bundle/phpcomplete
+[submodule ".vim/bundle/.vim/bundle/phpcomplete"]
+	path = .vim/bundle/.vim/bundle/phpcomplete
 	url = https://github.com/shawncplus/phpcomplete.vim.git
 [submodule ".vim/bundle/supertab"]
 	path = .vim/bundle/supertab
