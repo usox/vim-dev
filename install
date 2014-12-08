@@ -1,0 +1,4 @@
+#!/bin/bash
+ln -s ~/home/.vim ~/.vim
+ln -s ~/home/.vimrc ~/.vimrc
+mkdir -p ~/.vimbackup

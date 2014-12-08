@@ -1,0 +1,54 @@
+[submodule ".vim/bundle/puppet"]
+	path = .vim/bundle/puppet
+	url = git://github.com/rodjek/vim-puppet.git
+[submodule ".vim/bundle/nerdtree"]
+	path = .vim/bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule ".vim/bundle/pdv"]
+	path = .vim/bundle/pdv
+	url = https://github.com/tobyS/pdv.git
+[submodule ".vim/bundle/phpcomplete"]
+	path = .vim/bundle/phpcomplete
+	url = https://github.com/shawncplus/phpcomplete.vim.git
+[submodule ".vim/bundle/supertab"]
+	path = .vim/bundle/supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule ".vim/bundle/syntastic"]
+	path = .vim/bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule ".vim/bundle/ultisnips"]
+	path = .vim/bundle/ultisnips
+	url = https://github.com/SirVer/ultisnips.git
+[submodule ".vim/bundle/vdebug"]
+	path = .vim/bundle/vdebug
+	url = https://github.com/joonty/vdebug.git
+[submodule ".vim/bundle/vim-colors-solarized"]
+	path = .vim/bundle/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule ".vim/bundle/easytags"]
+	path = .vim/bundle/easytags
+	url = https://github.com/xolox/vim-easytags.git
+[submodule ".vim/bundle/fugitive"]
+	path = .vim/bundle/fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule ".vim/bundle/misc"]
+	path = .vim/bundle/misc
+	url = https://github.com/xolox/vim-misc.git
+[submodule ".vim/bundle/powerline"]
+	path = .vim/bundle/powerline
+	url = https://github.com/Lokaltog/vim-powerline.git
+[submodule ".vim/bundle/vmustache"]
+	path = .vim/bundle/vmustache
+	url = https://github.com/tobyS/vmustache.git
+[submodule ".vim/bundle/pasta"]
+	path = .vim/bundle/pasta
+	url = https://github.com/sickill/vim-pasta.git
+[submodule ".vim/bundle/vim-hack"]
+	path = .vim/bundle/vim-hack
+	url = git://github.com/hhvm/vim-hack.git
+[submodule ".vim/bundle/xml-vim"]
+	path = .vim/bundle/xml-vim
+	url = https://github.com/othree/xml.vim.git
+[submodule ".vim/bundle/vim-json"]
+	path = .vim/bundle/vim-json
+	url = https://github.com/elzr/vim-json.git
